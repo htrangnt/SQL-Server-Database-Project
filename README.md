@@ -1,4 +1,4 @@
-# Project-SQL-Server
+# SQL-Server-Database-Project
 
 ## Giới thiệu
 Dự án được thực hiện trong học phần Hệ Quản Trị Cơ Sở Dữ Liệu SQL Server nhằm xây dựng cơ sở dữ liệu quản lý bán hàng cho chuỗi cửa hàng Bách Hóa Xanh.
